@@ -1,0 +1,23 @@
+h1 {
+    color: orange;
+    font-family: "Segoe UI";
+}
+
+.kotak {
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    margin: 10px;
+    background: #0288d1;
+    float: left;
+}
+
+.ungu {
+    background: plum;
+}
+
+#pink {
+    background: pink;
+    color: darkgray;
+}
